@@ -93,3 +93,17 @@ Coming Soon (or add your deployed Firebase hosting link here)
 
 ---
 
+## 🖼️ App Screenshots
+
+Here is a preview of the app interface:
+
+![Home Page](images/8.png)
+![All Product](images/7.png)
+![Cart](images/3.png)  
+![User Dashbard](images/2.png)  
+![Admin Dashboard (Add products)](images/6.png)  
+![Admin Dashboard (Total Users)](images/5.png)  
+![Admin Dashboard (Total Orders)](images/4.png)  
+![Order Details](images/1.png)  
+  
+
